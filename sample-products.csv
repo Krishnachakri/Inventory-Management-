@@ -1,0 +1,9 @@
+name,unit,category,brand,stock,status,image
+Laptop,pcs,Electronics,Dell,10,In Stock,https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fExhcHRvcHxlbnwwfHwwfHx8MA%3D%3D
+Mouse,pcs,Electronics,Logitech,50,In Stock,https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW91c2V8ZW58MHx8MHx8fDA%3D
+Keyboard,pcs,Electronics,HP,30,In Stock,https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8a2V5Ym9hcmR8ZW58MHx8MHx8fDA%3D
+Monitor,pcs,Electronics,Samsung,15,In Stock,https://plus.unsplash.com/premium_photo-1733342493517-a660e6956795?q=80&w=1653&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+Chair,pcs,Furniture,IKEA,20,In Stock,https://images.unsplash.com/photo-1612372606404-0ab33e7187ee?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hhaXJ8ZW58MHx8MHx8fDA%3D
+Desk,pcs,Furniture,IKEA,5,In Stock,https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGVza3xlbnwwfHwwfHx8MA%3D%3D
+Pen,pcs,Stationery,Bic,100,In Stock,https://images.unsplash.com/photo-1585336261022-680e295ce3fe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGVufGVufDB8fDB8fHww
+Notebook,pcs,Stationery,Moleskine,25,In Stock,https://images.unsplash.com/photo-1612367980327-7454a7276aa7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bm90ZWJvb2t8ZW58MHx8MHx8fDA%3D
